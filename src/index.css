@@ -1,0 +1,14 @@
+* {
+	text-align: center;
+	margin: 10px;
+	padding: 0;
+	font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1 {
+	color: blue;
+}
+
+h2 {
+	color: gray;
+}
